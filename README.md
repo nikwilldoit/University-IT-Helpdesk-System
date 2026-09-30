@@ -61,11 +61,11 @@ The proposed Internal IT Helpdesk System aims to introduce a centralized platfor
 
 > **[Nikolaos Poulopoulos](https://github.com/nikwilldoit)**
 > BSc Student
-> Department of Informatics, Athens University of Economics and Business
+> Department of Informatics, [Athens University of Economics and Business](https://www.aueb.gr/en)
 
 > **[Evangelos Kampouris](https://github.com/evangelos-kampouris)**
 > BSc Student
-> Department of Informatics, Athens University of Economics and Business
+> Department of Informatics, [Athens University of Economics and Business](https://www.aueb.gr/en)
 
 ## Academic Supervision
 
@@ -77,7 +77,3 @@ Vilnius University
 
 **Erasmus+ Exchange Programme**
 Vilnius University, Lithuania
-
----
-
-*This repository contains the academic documentation and business analysis of the proposed Internal IT Helpdesk System.*
