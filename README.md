@@ -57,7 +57,7 @@ The proposed Internal IT Helpdesk System aims to introduce a centralized platfor
 * Better resource allocation through data-driven insights.
 * Improved knowledge sharing and process standardization.
 
-## Project Authors
+## Contributors
 
 > **[Nikolaos Poulopoulos](https://github.com/nikwilldoit)**
 > BSc Student
