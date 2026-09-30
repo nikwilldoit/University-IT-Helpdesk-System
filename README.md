@@ -8,7 +8,7 @@ The project examines the existing IT support environment, identifies operational
 
 ## Academic Context
 
-This project was developed as part of the **IT System Analytics** course at **Vilnius University**, within the framework of the **Erasmus+ exchange programme**.
+This project was developed as part of the **IT System Analytics** course at **[Vilnius University](https://www.vu.lt/en)**, within the **Erasmus+ exchange programme**.
 
 The project was conducted under the academic supervision of **Lina Druskiene**, course instructor at Vilnius University.
 
